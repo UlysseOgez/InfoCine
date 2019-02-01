@@ -26,7 +26,11 @@ namespace InfoCine
         {
             this.InitializeComponent();
             // C'est ici que je dois taper du code
+<<<<<<< HEAD
             Personne currentUser = new Personne("Ulysse", "Ogez");
+=======
+            Avis nouvelAvis = new Avis();
+>>>>>>> Ajout d'un nouvel avis dans le programme
         }
     }
 }
