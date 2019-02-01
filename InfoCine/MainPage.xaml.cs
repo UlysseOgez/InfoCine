@@ -25,6 +25,7 @@ namespace InfoCine
         public MainPage()
         {
             this.InitializeComponent();
+            // C'est ici que je dois taper du code
         }
     }
 }
