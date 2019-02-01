@@ -26,6 +26,7 @@ namespace InfoCine
         {
             this.InitializeComponent();
             // C'est ici que je dois taper du code
+            Personne currentUser = new Personne("Ulysse", "Ogez");
         }
     }
 }
